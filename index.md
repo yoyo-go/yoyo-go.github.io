@@ -5,7 +5,7 @@
 ### Education
 **2011.9-2014.7  MA in Chinese Linguistics <span style='float:right;'>[Beijing Normal University]</span>**
 
-**2006.9-2010.7  BA in Chinese Language & Literature <span style='float:right;'>[Beijing International Studies University]**
+<strong>2006.9-2010.7  BA in Chinese Language & Literature <span style='float:right;'>[Beijing International Studies University]</strong>
 
 ---
 ### Language Skills
