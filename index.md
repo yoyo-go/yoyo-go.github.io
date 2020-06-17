@@ -20,7 +20,7 @@
 
 ---
 ### Working Experience
-**2018.11-present   Wicresoft Shanghai (Microsoft outsourcing project)   Technical Writer**
+**2018.11-present   Wicresoft Shanghai (Microsoft outsourcing project)   <span style="float:right;">Technical Writer</span>**
 - Responsible for content requests of Microsoft Partners program, write Frontline Process Excellence support docs in various scenarios such as how to use Partner Center Dashboard, Commerce Management Agent Tool, ConnectUs, etc.;
 - Write support docs for various Microsoft products’ offers landing on Partner Center, e.g. Microsoft Azure, Dynamics 365, Office 365, Windows Server, SQL Server, etc.;
 - Cooperate with Microsoft Partners release managers, engineers, support planners, technical advisors, frontline advocates and other teams to meet their requirements for support documentations of Cloud Service Provides program and Microsoft Partners Network program;
