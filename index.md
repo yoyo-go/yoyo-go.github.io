@@ -1,5 +1,5 @@
 ### Yoyo Wu
-**E-mail:** <luckyyoyowu@gmail.com> 
+**E-mail:** <yoyo19980720@163.com> 
 
 ---
 ### Education
